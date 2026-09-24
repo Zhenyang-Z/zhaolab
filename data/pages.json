@@ -48,7 +48,7 @@
   },
   "activities": {
     "title": "Group activities",
-    "intro_html": "<div><h3>Our research group maintains a vibrant social life. We enjoy regular group meals and get‑togethers, where members step away from laboratory work to chat and connect with one another. These pleasant moments create precious shared memories and contribute to a positive, collaborative research environment.</h3></div>",
+    "intro_html": "<div><h3>Our group enjoys regular meals and gatherings that build connection and collaboration beyond the lab.</h3></div>",
     "images": [
       {
         "src": "assets/group-activities-1.jpg",
