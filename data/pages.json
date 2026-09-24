@@ -59,52 +59,42 @@
       },
       {
         "src": "assets/group-activities-2.jpg",
-        "width": 1706,
-        "height": 1280,
+        "width": 4096,
+        "height": 3072,
         "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/bc3630f4-b964-42dd-ac6b-9f5764a6ea78/pub-30.jpg",
-        "source_file": "Group activities/pub-30.jpg"
+        "source_file": "Group activities/pub-30.jpg",
+        "processing": "Proportional resize and centered crop to 4096 x 3072"
       },
       {
         "src": "assets/group-activities-3.jpg",
-        "width": 1706,
-        "height": 1279,
+        "width": 4096,
+        "height": 3072,
         "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/77c11da3-58f9-4607-9d96-37472d7bae87/pub-35.jpg",
-        "source_file": "Group activities/pub-35.jpg"
+        "source_file": "Group activities/pub-35.jpg",
+        "processing": "Proportional resize and centered crop to 4096 x 3072"
       },
       {
         "src": "assets/group-activities-4.jpg",
-        "width": 1280,
-        "height": 960,
+        "width": 4096,
+        "height": 3072,
         "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/75bda9a9-a90d-4971-b7d2-90d4ebfd89af/pub-33.jpg",
-        "source_file": "Group activities/pub-33.jpg"
-      },
-      {
-        "src": "assets/group-activities-5.jpg",
-        "width": 1706,
-        "height": 1279,
-        "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/87384a1b-4720-4c0a-8476-ff4183acab3b/pub-36.jpg",
-        "source_file": "Group activities/pub-36.jpg"
-      },
-      {
-        "src": "assets/group-activities-6.jpg",
-        "width": 2844,
-        "height": 1280,
-        "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/e05c1c4d-4a16-46c4-852e-b62adf0fe968/pub-32.jpg",
-        "source_file": "Group activities/pub-32.jpg"
+        "source_file": "Group activities/pub-33.jpg",
+        "processing": "Proportional resize and centered crop to 4096 x 3072"
       },
       {
         "src": "assets/group-activities-7.jpg",
-        "width": 1280,
-        "height": 960,
+        "width": 4096,
+        "height": 3072,
         "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/72f941d8-c0cc-46e5-8756-8f4c7cd965b5/pub-34.jpg",
-        "source_file": "Group activities/pub-34.jpg"
+        "source_file": "Group activities/pub-34.jpg",
+        "processing": "Proportional resize and centered crop to 4096 x 3072"
       },
       {
         "src": "assets/group-activities-8.jpg",
-        "width": 1280,
-        "height": 1514,
-        "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/93244540-0d70-4965-97a6-b4ce933cc8f8/pub-31.jpg",
-        "source_file": "Group activities/pub-31.jpg"
+        "width": 4096,
+        "height": 3072,
+        "source_file": "Group activities/pub-37.jpg",
+        "processing": "Proportional resize and centered crop to 4096 x 3072"
       }
     ]
   },
