@@ -35,7 +35,7 @@
   },
   "research": {
     "title": "Research",
-    "intro_html": "<div><h3>Our group focuses on the development of efficient and sustainable strategies for molecules of interest in medicine and materials, involving two primary research directions: organic methodology and synthesis of deuterated compounds.</h3></div>",
+    "intro_html": "<div><h3>Our group focuses on the development of efficient and sustainable strategies for molecules of interest in medicine and materials, involving two primary research directions: cooperative catalysis and tritium labeling.</h3></div>",
     "images": [
       {
         "src": "assets/research-1.png",
