@@ -1,0 +1,131 @@
+{
+  "home": {
+    "title": "Development of Novel Reaction Chemistry",
+    "intro_html": "<div><h3><span>Our research group is located at University of Chinese Academy of Sciences. We welcome motivated students and researchers who are passionate about chemistry to join us.</span></h3></div>",
+    "images": [
+      {
+        "src": "assets/home-1.jpg",
+        "width": 2489,
+        "height": 1025,
+        "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/0b0f47b6-f131-4d52-8904-f3045bc90732/pub-20.jpg",
+        "source_file": "Home/pub-21.jpg"
+      },
+      {
+        "src": "assets/home-2.jpg",
+        "width": 1440,
+        "height": 771,
+        "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/3e3ae5aa-fb72-45f3-97d3-6c6330e55bc5/44a9585b566e57cd14817c6ff264cb7e.jpg",
+        "source_file": "Home/cc8a665999a7109631678642e69f2c74.jpg"
+      },
+      {
+        "src": "assets/home-3.jpg",
+        "width": 1440,
+        "height": 822,
+        "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/de3a7ae2-0cf0-4c93-bebc-6986cfb0d2ad/be4519d5bf9fd73370774a67a1de4311.jpg",
+        "source_file": "Home/be4519d5bf9fd73370774a67a1de4311.jpg"
+      },
+      {
+        "src": "assets/home-4.jpg",
+        "width": 1170,
+        "height": 726,
+        "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/227c1c1c-6811-48c0-af25-736aa5b3b997/b83354466645398fe9dbcde7a5415101.jpg",
+        "source_file": "Home/b83354466645398fe9dbcde7a5415101.jpg"
+      }
+    ]
+  },
+  "research": {
+    "title": "Research",
+    "intro_html": "<div><h3>Our group focuses on the development of efficient and sustainable strategies for molecules of interest in medicine and materials, involving two primary research directions: organic methodology and synthesis of deuterated compounds.</h3></div>",
+    "images": [
+      {
+        "src": "assets/research-1.png",
+        "width": 2526,
+        "height": 682,
+        "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/190f422f-dc30-486e-af09-1203f2e0300a/e06c0ae67773f36ffde941dfbfb8d205.png",
+        "source_file": "Research/e06c0ae67773f36ffde941dfbfb8d205.png"
+      }
+    ]
+  },
+  "activities": {
+    "title": "Group activities",
+    "intro_html": "<div><h3>Our research group maintains a vibrant social life. We enjoy regular group meals and get‑togethers, where members step away from laboratory work to chat and connect with one another. These pleasant moments create precious shared memories and contribute to a positive, collaborative research environment.</h3></div>",
+    "images": [
+      {
+        "src": "assets/group-activities-1.jpg",
+        "width": 2838,
+        "height": 1115,
+        "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/21bd84c4-bdb2-46e8-82cd-5dc20938a862/pub-29.jpg",
+        "source_file": "Group activities/pub-29.jpg"
+      },
+      {
+        "src": "assets/group-activities-2.jpg",
+        "width": 1706,
+        "height": 1280,
+        "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/bc3630f4-b964-42dd-ac6b-9f5764a6ea78/pub-30.jpg",
+        "source_file": "Group activities/pub-30.jpg"
+      },
+      {
+        "src": "assets/group-activities-3.jpg",
+        "width": 1706,
+        "height": 1279,
+        "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/77c11da3-58f9-4607-9d96-37472d7bae87/pub-35.jpg",
+        "source_file": "Group activities/pub-35.jpg"
+      },
+      {
+        "src": "assets/group-activities-4.jpg",
+        "width": 1280,
+        "height": 960,
+        "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/75bda9a9-a90d-4971-b7d2-90d4ebfd89af/pub-33.jpg",
+        "source_file": "Group activities/pub-33.jpg"
+      },
+      {
+        "src": "assets/group-activities-5.jpg",
+        "width": 1706,
+        "height": 1279,
+        "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/87384a1b-4720-4c0a-8476-ff4183acab3b/pub-36.jpg",
+        "source_file": "Group activities/pub-36.jpg"
+      },
+      {
+        "src": "assets/group-activities-6.jpg",
+        "width": 2844,
+        "height": 1280,
+        "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/e05c1c4d-4a16-46c4-852e-b62adf0fe968/pub-32.jpg",
+        "source_file": "Group activities/pub-32.jpg"
+      },
+      {
+        "src": "assets/group-activities-7.jpg",
+        "width": 1280,
+        "height": 960,
+        "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/72f941d8-c0cc-46e5-8756-8f4c7cd965b5/pub-34.jpg",
+        "source_file": "Group activities/pub-34.jpg"
+      },
+      {
+        "src": "assets/group-activities-8.jpg",
+        "width": 1280,
+        "height": 1514,
+        "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/93244540-0d70-4965-97a6-b4ce933cc8f8/pub-31.jpg",
+        "source_file": "Group activities/pub-31.jpg"
+      }
+    ]
+  },
+  "team": {
+    "title": "The group",
+    "hero": {
+      "src": "assets/team-1.jpg",
+      "width": 2838,
+      "height": 1115,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/b7284024-1db5-4ff1-825e-1a25c58e9e16/pub-19.jpg",
+      "source_file": "Team/pub-29.jpg"
+    }
+  },
+  "publications": {
+    "title": "Publications",
+    "hero": {
+      "src": "assets/publications-1.jpg",
+      "width": 2550,
+      "height": 840,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/26ff8862-b725-4d87-bc4d-418b3872d085/47735c00b41a41f4cb9e4d3a037810a6.jpg",
+      "source_file": "Publications/47735c00b41a41f4cb9e4d3a037810a6.jpg"
+    }
+  }
+}

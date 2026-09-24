@@ -1,0 +1,205 @@
+[
+  {
+    "asset": "assets/group-activities-1.jpg",
+    "status": "replaced",
+    "source_file": "Group activities/pub-29.jpg",
+    "sha256": "01e2464d469f53513e8f151c8b10eb5b5302080c5998b312e68a19aa18b1f075"
+  },
+  {
+    "asset": "assets/group-activities-2.jpg",
+    "status": "replaced",
+    "source_file": "Group activities/pub-30.jpg",
+    "sha256": "2886953c4b37a27e1d243415442dcf6493b7c184b2d069f8ffc96bbdf9171dcb"
+  },
+  {
+    "asset": "assets/group-activities-3.jpg",
+    "status": "replaced",
+    "source_file": "Group activities/pub-35.jpg",
+    "sha256": "02469ca9c2a106f53180865659cf77a782624325e76954c413b9a7129feab589"
+  },
+  {
+    "asset": "assets/group-activities-4.jpg",
+    "status": "replaced",
+    "source_file": "Group activities/pub-33.jpg",
+    "sha256": "72e6cee937e85232b9d87bd2e7c83fd0cd9ef136ff37da04df7ffbfd517190c4"
+  },
+  {
+    "asset": "assets/group-activities-5.jpg",
+    "status": "replaced",
+    "source_file": "Group activities/pub-36.jpg",
+    "sha256": "890868ed42565d5fdd874418ef6f2847f0df648a7928e4b81d1618e8736f746e"
+  },
+  {
+    "asset": "assets/group-activities-6.jpg",
+    "status": "replaced",
+    "source_file": "Group activities/pub-32.jpg",
+    "sha256": "c568437a692b6ca6129dd8dc57c90b36f962f845a8c57fbaae12144958eab306"
+  },
+  {
+    "asset": "assets/group-activities-7.jpg",
+    "status": "replaced",
+    "source_file": "Group activities/pub-34.jpg",
+    "sha256": "ecf15665f9f60e8d7fbad5d2d0dea13a9a5bfa7813948396205a553c5840cf30"
+  },
+  {
+    "asset": "assets/group-activities-8.jpg",
+    "status": "replaced",
+    "source_file": "Group activities/pub-31.jpg",
+    "sha256": "13e3c4a861075d166149115d5548c07205b84920fb2d0fbd0918ae0e110a1289"
+  },
+  {
+    "asset": "assets/logo.png",
+    "status": "replaced",
+    "source_file": "Home/logo.png",
+    "sha256": "b2e7aa1b5ed17c294d420b23a47e10f50cbc8a9622613fb588120ba7725234d0"
+  },
+  {
+    "asset": "assets/home-1.jpg",
+    "status": "replaced",
+    "source_file": "Home/pub-21.jpg",
+    "sha256": "54ad25c36a3f7246fdb998b6e150c308ced479edca34284f2c5d32ff03816f4a"
+  },
+  {
+    "asset": "assets/home-2.jpg",
+    "status": "replaced",
+    "source_file": "Home/cc8a665999a7109631678642e69f2c74.jpg",
+    "sha256": "80381ed7c9fc9884ee9098b868d041abbcd9b4f813dcf4b137a8ffc8e29237a4"
+  },
+  {
+    "asset": "assets/home-3.jpg",
+    "status": "replaced",
+    "source_file": "Home/be4519d5bf9fd73370774a67a1de4311.jpg",
+    "sha256": "da6ea9489713941da62332c084fc1055108b2e77a8db2d4b346d27d3c078148f"
+  },
+  {
+    "asset": "assets/home-4.jpg",
+    "status": "replaced",
+    "source_file": "Home/b83354466645398fe9dbcde7a5415101.jpg",
+    "sha256": "b6de4bd36c17b14082dc7f6a6d3387b8c37c4270c80b62824b78d10ad23d11ca"
+  },
+  {
+    "asset": "assets/publications-1.jpg",
+    "status": "replaced",
+    "source_file": "Publications/47735c00b41a41f4cb9e4d3a037810a6.jpg",
+    "sha256": "dfe47fa5232530b298d7717f985e6d2663eabc18f5c7844a9ef50bce79b01b28"
+  },
+  {
+    "asset": "assets/publications-2.png",
+    "status": "replaced",
+    "source_file": "Publications/pub-18.png",
+    "sha256": "17b9d1f9008057c89cf6d1e3ca68a54f1c611abbb328213ca3e18f433403a289"
+  },
+  {
+    "asset": "assets/publications-3.webp",
+    "status": "replaced",
+    "source_file": "Publications/44160_2024_716_Figa_HTML.webp",
+    "sha256": "a48b2ddae70c464bb53e7bc58efd9d0b94a14bce54df4fc6d6cbaf1900709793"
+  },
+  {
+    "asset": "assets/publications-4.jpg",
+    "status": "replaced",
+    "source_file": "Publications/pub-15.jpg",
+    "sha256": "5598157a4a243f60189538bcd6c4b0e4d5764e77adb050340f7faab3db5e3f67"
+  },
+  {
+    "asset": "assets/publications-5.webp",
+    "status": "retained-export",
+    "reason": "No matching source file supplied"
+  },
+  {
+    "asset": "assets/research-1.png",
+    "status": "replaced",
+    "source_file": "Research/e06c0ae67773f36ffde941dfbfb8d205.png",
+    "sha256": "1748c3c71ad97d4865989e36e9a990baa8729cc80c41203b379d5fbe40654714"
+  },
+  {
+    "asset": "assets/team-1.jpg",
+    "status": "replaced",
+    "source_file": "Team/pub-29.jpg",
+    "sha256": "01e2464d469f53513e8f151c8b10eb5b5302080c5998b312e68a19aa18b1f075"
+  },
+  {
+    "asset": "assets/team-2.jpg",
+    "status": "replaced",
+    "source_file": "Team/微信图片_20260920203819_167_1.jpg",
+    "sha256": "fc1a9e80ce07191dce5591374c22138e8d66198c15ee33fba1cd37aa523df129"
+  },
+  {
+    "asset": "assets/team-3.jpg",
+    "status": "replaced",
+    "source_file": "Team/微信图片_20260911170148_3_154.jpg",
+    "sha256": "8df6d7442f7c639b6af9c032a85fec08d6d77210573c28c80946529fdf10cd2f"
+  },
+  {
+    "asset": "assets/team-4.jpg",
+    "status": "replaced",
+    "source_file": "Team/微信图片_20260911170137_1_154.jpg",
+    "sha256": "e23a45e8aa1a75045b990334ee57081253f0efa0719f758707a2010e706fd583"
+  },
+  {
+    "asset": "assets/team-5.jpg",
+    "status": "replaced",
+    "source_file": "Team/微信图片_20260911170216_5_154.jpg",
+    "sha256": "0e10ac4d7647b6b0b5cf47f4a8e0f976a3322f2b87f7879c2ec6fbd36219396e"
+  },
+  {
+    "asset": "assets/team-6.jpg",
+    "status": "replaced",
+    "source_file": "Team/微信图片_20260911113033_1_153.jpg",
+    "sha256": "8e4a50dbb260d3f6278445676581d942e6f823a7962d46d2ebf5ed684ee8b1ea"
+  },
+  {
+    "asset": "assets/team-7.jpg",
+    "status": "replaced",
+    "source_file": "Team/微信图片_20260911113005_1_166.jpg",
+    "sha256": "98e2c677b2f8954fb0c7725e5aef60f072243effc7defc536798eadd9b03f3c5"
+  },
+  {
+    "asset": "assets/team-8.jpg",
+    "status": "replaced",
+    "source_file": "Team/微信图片_20260911113345_1_108.jpg",
+    "sha256": "2a6097ce6ea774f594ecc2c35403ab968b1305d602d379b2b51107a5799d1cba"
+  },
+  {
+    "asset": "assets/team-9.png",
+    "status": "replaced",
+    "source_file": "Team/微信图片_20260911170334_110_117.png",
+    "sha256": "7314577e43c8ff24aef8f184a040a912e3f8677ef015371cf3352a39f78b122f"
+  },
+  {
+    "asset": "assets/team-10.jpg",
+    "status": "replaced",
+    "source_file": "Team/微信图片_20260911170336_1_163.jpg",
+    "sha256": "8d8012a05f456d2dc8662acad27f8892063f206db8e688fd7cf65b9711b4feee"
+  },
+  {
+    "asset": "assets/team-11.jpg",
+    "status": "replaced",
+    "source_file": "Team/微信图片_20260911141627_51_122.jpg",
+    "sha256": "7f42071e1526ea5d6f9576a475ade8e96e5859a4871307cbd9bbf9e8f873f625"
+  },
+  {
+    "asset": "assets/team-12.png",
+    "status": "replaced",
+    "source_file": "Team/微信图片_20260911170407_115_117.png",
+    "sha256": "13bbd076085153fe04f9dbf1f90ab1535672903743d929999a6660e22975ca32"
+  },
+  {
+    "asset": "assets/team-13.jpg",
+    "status": "replaced",
+    "source_file": "Team/微信图片_20260910222331_24_131.jpg",
+    "sha256": "ccf7b8b474695f479f23d9e40c7521830f4b4265ab2d04c37b21c5565b8566c8"
+  },
+  {
+    "asset": "assets/team-14.jpg",
+    "status": "replaced",
+    "source_file": "Team/微信图片_20260910222002_2_209.jpg",
+    "sha256": "150538318b10bbf8ab507566994b92da1a70d80098b32cee016e1a25ece816a7"
+  },
+  {
+    "asset": "assets/team-15.jpg",
+    "status": "replaced",
+    "source_file": "Team/个人证件照.jpg",
+    "sha256": "8918e8a408a73574e48108093e8ff981c662bc43252ff4e3feb4eb22d4723df2"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Da Zhao (赵达)",
+    "image": {
+      "src": "assets/team-2.jpg",
+      "width": 1024,
+      "height": 1366,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/ff87af91-28b3-4dc3-bfa8-0bdd09629cf6/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260920203819_167_1.jpg",
+      "source_file": "Team/微信图片_20260920203819_167_1.jpg"
+    },
+    "biography_html": "<div><p><strong>Da Zhao</strong><br/>Associate Professor (2021.9-)<br/>School of Chemical Sciences, University of Chinese Academy of Sciences</p><p><strong>Postdoctoral training</strong><br/>Max-Planck-Institut für Kohlenforschung (2017.7-2021.8) &amp; Harvard University (2016.7-2017.6);<br/>advisor: Prof. Tobias Ritter<br/></p><p><br/>The Chinese University of Hong Kong (2015.8-2016.6),<br/>advisor:  Prof. Zuowei Xie</p><p><strong>Ph.D.</strong><br/>The Chinese University of Hong Kong, 2015, advisor:  Prof. Zuowei Xie</p><p><strong>B.S.</strong><br/>Jilin University, 2010</p></div>"
+  },
+  {
+    "name": "Beibei Zhang (张蓓蓓)",
+    "role": "Postdoctor researcher",
+    "education": "Ph.D. Tianjin University, 2022",
+    "email": "zhangbb@ucas.ac.cn",
+    "image": {
+      "src": "assets/team-3.jpg",
+      "width": 1688,
+      "height": 2363,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/560e8637-496b-4e04-9f44-9faca41b6e50/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911170148_3_154.jpg",
+      "source_file": "Team/微信图片_20260911170148_3_154.jpg"
+    }
+  },
+  {
+    "name": "Chen Zhao (赵辰)",
+    "role": "Doctoral student",
+    "education": "B.S. Beijing University of Technology, 2022",
+    "email": "zhaochen22@mails.ucas.ac.cn",
+    "image": {
+      "src": "assets/team-4.jpg",
+      "width": 3000,
+      "height": 4000,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/4ead52e6-0ea2-4c29-a456-793f6c51c7b7/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911170137_1_154.jpg",
+      "source_file": "Team/微信图片_20260911170137_1_154.jpg"
+    }
+  },
+  {
+    "name": "Zhenyang Zhang (张振阳)",
+    "role": "Doctoral student",
+    "education": "B.S. Wuhan University, 2022",
+    "email": "zhangzhenyang22@mails.ucas.ac.cn",
+    "image": {
+      "src": "assets/team-5.jpg",
+      "width": 1944,
+      "height": 2592,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/9e33c99a-eb85-4406-9d82-914337414321/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911170216_5_154.jpg",
+      "source_file": "Team/微信图片_20260911170216_5_154.jpg"
+    }
+  },
+  {
+    "name": "Ningning Song (宋宁宁)",
+    "role": "Doctoral student",
+    "education": "B.S. Qingdao University of Science and Technology, 2023 ",
+    "email": "songningning23@mails.ucas.ac.cn",
+    "image": {
+      "src": "assets/team-6.jpg",
+      "width": 2273,
+      "height": 3181,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/5cff08d9-5633-4cf9-8e13-dd1b7fc7f498/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911113033_1_153.jpg",
+      "source_file": "Team/微信图片_20260911113033_1_153.jpg"
+    }
+  },
+  {
+    "name": "Jing Yang (杨晶)",
+    "role": "Doctoral student",
+    "education": "B.S. Henan University, 2024",
+    "email": "yangjing242@mails.ucas.ac.cn",
+    "image": {
+      "src": "assets/team-7.jpg",
+      "width": 2533,
+      "height": 3143,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/553e90a2-ab1b-4113-8e64-507c1984beba/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911113005_1_166.jpg",
+      "source_file": "Team/微信图片_20260911113005_1_166.jpg"
+    }
+  },
+  {
+    "name": "Peixuan Lyu (吕佩璇)",
+    "role": "Doctoral student",
+    "education": "B.S. Hefei University of Technology, 2024",
+    "email": "lvpeixuan24@mails.ucas.ac.cn",
+    "image": {
+      "src": "assets/team-8.jpg",
+      "width": 591,
+      "height": 827,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/63001e91-79c1-40a9-af79-ec4acbfc1d3f/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911113345_1_108.jpg",
+      "source_file": "Team/微信图片_20260911113345_1_108.jpg"
+    }
+  },
+  {
+    "name": "Xiaona Feng (冯晓娜)",
+    "role": "Master student",
+    "education": "B.S. Shanghai Normal University, 2024",
+    "email": "fengxiaona24@mails.ucas.ac.cn",
+    "image": {
+      "src": "assets/team-9.png",
+      "width": 672,
+      "height": 936,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/e0e4b232-4b7f-41c7-b54b-57559ed7a600/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911170334_110_117.png",
+      "source_file": "Team/微信图片_20260911170334_110_117.png"
+    }
+  },
+  {
+    "name": "Meiyu Luo (罗美玉)",
+    "role": "Doctoral student",
+    "education": "B.S. Beijing Technology and Business University, 2023",
+    "email": "luomeiyu23@mails.ucas.ac.cn",
+    "image": {
+      "src": "assets/team-10.jpg",
+      "width": 600,
+      "height": 840,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/51541acc-efe4-4e3d-9757-6d597b4830e4/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911170336_1_163.jpg",
+      "source_file": "Team/微信图片_20260911170336_1_163.jpg"
+    }
+  },
+  {
+    "name": "Zihang Yong (雍子航)",
+    "role": "Master student",
+    "education": "B.S. Sichuan Normal University, 2025",
+    "email": "yongzihang25@mails.ucas.ac.cn",
+    "image": {
+      "src": "assets/team-11.jpg",
+      "width": 909,
+      "height": 1280,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/7251a3d7-1d88-47c5-b801-e03de679bc4e/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911141627_51_122.jpg",
+      "source_file": "Team/微信图片_20260911141627_51_122.jpg"
+    }
+  },
+  {
+    "name": "Yujun Sui (隋煜君)",
+    "role": "Master student",
+    "education": "B.S. Shandong Normal University, 2025",
+    "email": "suiyujun25@mails.ucas.ac.cn",
+    "image": {
+      "src": "assets/team-12.png",
+      "width": 670,
+      "height": 948,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/c4f8b1aa-e057-4e33-a91b-16597ee767ac/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911170407_115_117.png",
+      "source_file": "Team/微信图片_20260911170407_115_117.png"
+    }
+  },
+  {
+    "name": "Yuan Lu (路媛)",
+    "role": "Master student",
+    "education": "B.S. Henan University, 2025",
+    "email": "luyuan25@mails.ucas.ac.cn",
+    "image": {
+      "src": "assets/team-13.jpg",
+      "width": 896,
+      "height": 1305,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/217d7b6e-2ea1-4422-b3fc-aad6af76f5b1/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260910222331_24_131.jpg",
+      "source_file": "Team/微信图片_20260910222331_24_131.jpg"
+    }
+  },
+  {
+    "name": "Qichong Zhang (张齐翀)",
+    "role": "Master student",
+    "education": "B.S. Hunan University, 2025",
+    "email": "zhangqichong25@mails.ucas.ac.cn",
+    "image": {
+      "src": "assets/team-14.jpg",
+      "width": 900,
+      "height": 1200,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/11f897c7-0372-4133-9476-4ea9715bc3cf/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260910222002_2_209.jpg",
+      "source_file": "Team/微信图片_20260910222002_2_209.jpg"
+    }
+  },
+  {
+    "name": "Hanweixuan Wang (王韩玮璇)",
+    "role": "Master student",
+    "education": "B.S. China West Normal University, 2026",
+    "email": "wanghanweixuan26@mails.ucas.ac.cn",
+    "image": {
+      "src": "assets/team-15.jpg",
+      "width": 1372,
+      "height": 1920,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/d5212e6c-ec4d-4e31-ac4d-85980a8c068c/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__%26MsgI",
+      "source_file": "Team/个人证件照.jpg"
+    }
+  }
+]

@@ -1,0 +1,277 @@
+{
+  "group-activities": [
+    {
+      "src": "assets/group-activities-1.jpg",
+      "width": 2838,
+      "height": 1115,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/21bd84c4-bdb2-46e8-82cd-5dc20938a862/pub-29.jpg",
+      "source_file": "Group activities/pub-29.jpg"
+    },
+    {
+      "src": "assets/group-activities-2.jpg",
+      "width": 1706,
+      "height": 1280,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/bc3630f4-b964-42dd-ac6b-9f5764a6ea78/pub-30.jpg",
+      "source_file": "Group activities/pub-30.jpg"
+    },
+    {
+      "src": "assets/group-activities-3.jpg",
+      "width": 1706,
+      "height": 1279,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/77c11da3-58f9-4607-9d96-37472d7bae87/pub-35.jpg",
+      "source_file": "Group activities/pub-35.jpg"
+    },
+    {
+      "src": "assets/group-activities-4.jpg",
+      "width": 1280,
+      "height": 960,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/75bda9a9-a90d-4971-b7d2-90d4ebfd89af/pub-33.jpg",
+      "source_file": "Group activities/pub-33.jpg"
+    },
+    {
+      "src": "assets/group-activities-5.jpg",
+      "width": 1706,
+      "height": 1279,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/87384a1b-4720-4c0a-8476-ff4183acab3b/pub-36.jpg",
+      "source_file": "Group activities/pub-36.jpg"
+    },
+    {
+      "src": "assets/group-activities-6.jpg",
+      "width": 2844,
+      "height": 1280,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/e05c1c4d-4a16-46c4-852e-b62adf0fe968/pub-32.jpg",
+      "source_file": "Group activities/pub-32.jpg"
+    },
+    {
+      "src": "assets/group-activities-7.jpg",
+      "width": 1280,
+      "height": 960,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/72f941d8-c0cc-46e5-8756-8f4c7cd965b5/pub-34.jpg",
+      "source_file": "Group activities/pub-34.jpg"
+    },
+    {
+      "src": "assets/group-activities-8.jpg",
+      "width": 1280,
+      "height": 1514,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/93244540-0d70-4965-97a6-b4ce933cc8f8/pub-31.jpg",
+      "source_file": "Group activities/pub-31.jpg"
+    },
+    {
+      "src": "assets/logo.png",
+      "width": 753,
+      "height": 217,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/be501acb-45c8-4f0b-99eb-cae720c184b5/logo.png?format=1500w",
+      "source_file": "Home/logo.png"
+    }
+  ],
+  "home": [
+    {
+      "src": "assets/home-1.jpg",
+      "width": 2489,
+      "height": 1025,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/0b0f47b6-f131-4d52-8904-f3045bc90732/pub-20.jpg",
+      "source_file": "Home/pub-21.jpg"
+    },
+    {
+      "src": "assets/home-2.jpg",
+      "width": 1440,
+      "height": 771,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/3e3ae5aa-fb72-45f3-97d3-6c6330e55bc5/44a9585b566e57cd14817c6ff264cb7e.jpg",
+      "source_file": "Home/cc8a665999a7109631678642e69f2c74.jpg"
+    },
+    {
+      "src": "assets/home-3.jpg",
+      "width": 1440,
+      "height": 822,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/de3a7ae2-0cf0-4c93-bebc-6986cfb0d2ad/be4519d5bf9fd73370774a67a1de4311.jpg",
+      "source_file": "Home/be4519d5bf9fd73370774a67a1de4311.jpg"
+    },
+    {
+      "src": "assets/home-4.jpg",
+      "width": 1170,
+      "height": 726,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/227c1c1c-6811-48c0-af25-736aa5b3b997/b83354466645398fe9dbcde7a5415101.jpg",
+      "source_file": "Home/b83354466645398fe9dbcde7a5415101.jpg"
+    },
+    {
+      "src": "assets/logo.png",
+      "width": 753,
+      "height": 217,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/be501acb-45c8-4f0b-99eb-cae720c184b5/logo.png?format=1500w",
+      "source_file": "Home/logo.png"
+    }
+  ],
+  "publications": [
+    {
+      "src": "assets/publications-1.jpg",
+      "width": 2550,
+      "height": 840,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/26ff8862-b725-4d87-bc4d-418b3872d085/47735c00b41a41f4cb9e4d3a037810a6.jpg",
+      "source_file": "Publications/47735c00b41a41f4cb9e4d3a037810a6.jpg"
+    },
+    {
+      "src": "assets/publications-2.png",
+      "width": 604,
+      "height": 292,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/9f8723bf-0956-4535-9814-2c52ec810278/pub-18.png",
+      "source_file": "Publications/pub-18.png"
+    },
+    {
+      "src": "assets/publications-3.webp",
+      "width": 685,
+      "height": 372,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/a1dce4e4-da30-44a9-a13d-cbde777bdaab/44160_2024_716_Figa_HTML.webp",
+      "source_file": "Publications/44160_2024_716_Figa_HTML.webp"
+    },
+    {
+      "src": "assets/publications-4.jpg",
+      "width": 996,
+      "height": 996,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/8fca717a-871b-4acf-9129-4fda85a3f765/pub-15.jpg",
+      "source_file": "Publications/pub-15.jpg"
+    },
+    {
+      "src": "assets/publications-5.webp",
+      "width": 1000,
+      "height": 339,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/3ee966ad-bdfe-4cfb-96e9-142e882f74a7/pub-14.jpeg"
+    },
+    {
+      "src": "assets/logo.png",
+      "width": 753,
+      "height": 217,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/be501acb-45c8-4f0b-99eb-cae720c184b5/logo.png?format=1500w",
+      "source_file": "Home/logo.png"
+    }
+  ],
+  "research": [
+    {
+      "src": "assets/research-1.png",
+      "width": 2526,
+      "height": 682,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/190f422f-dc30-486e-af09-1203f2e0300a/e06c0ae67773f36ffde941dfbfb8d205.png",
+      "source_file": "Research/e06c0ae67773f36ffde941dfbfb8d205.png"
+    },
+    {
+      "src": "assets/logo.png",
+      "width": 753,
+      "height": 217,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/be501acb-45c8-4f0b-99eb-cae720c184b5/logo.png?format=1500w",
+      "source_file": "Home/logo.png"
+    }
+  ],
+  "team": [
+    {
+      "src": "assets/team-1.jpg",
+      "width": 2838,
+      "height": 1115,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/b7284024-1db5-4ff1-825e-1a25c58e9e16/pub-19.jpg",
+      "source_file": "Team/pub-29.jpg"
+    },
+    {
+      "src": "assets/team-2.jpg",
+      "width": 1024,
+      "height": 1366,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/ff87af91-28b3-4dc3-bfa8-0bdd09629cf6/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260920203819_167_1.jpg",
+      "source_file": "Team/微信图片_20260920203819_167_1.jpg"
+    },
+    {
+      "src": "assets/team-3.jpg",
+      "width": 1688,
+      "height": 2363,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/560e8637-496b-4e04-9f44-9faca41b6e50/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911170148_3_154.jpg",
+      "source_file": "Team/微信图片_20260911170148_3_154.jpg"
+    },
+    {
+      "src": "assets/team-4.jpg",
+      "width": 3000,
+      "height": 4000,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/4ead52e6-0ea2-4c29-a456-793f6c51c7b7/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911170137_1_154.jpg",
+      "source_file": "Team/微信图片_20260911170137_1_154.jpg"
+    },
+    {
+      "src": "assets/team-5.jpg",
+      "width": 1944,
+      "height": 2592,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/9e33c99a-eb85-4406-9d82-914337414321/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911170216_5_154.jpg",
+      "source_file": "Team/微信图片_20260911170216_5_154.jpg"
+    },
+    {
+      "src": "assets/team-6.jpg",
+      "width": 2273,
+      "height": 3181,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/5cff08d9-5633-4cf9-8e13-dd1b7fc7f498/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911113033_1_153.jpg",
+      "source_file": "Team/微信图片_20260911113033_1_153.jpg"
+    },
+    {
+      "src": "assets/team-7.jpg",
+      "width": 2533,
+      "height": 3143,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/553e90a2-ab1b-4113-8e64-507c1984beba/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911113005_1_166.jpg",
+      "source_file": "Team/微信图片_20260911113005_1_166.jpg"
+    },
+    {
+      "src": "assets/team-8.jpg",
+      "width": 591,
+      "height": 827,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/63001e91-79c1-40a9-af79-ec4acbfc1d3f/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911113345_1_108.jpg",
+      "source_file": "Team/微信图片_20260911113345_1_108.jpg"
+    },
+    {
+      "src": "assets/team-9.png",
+      "width": 672,
+      "height": 936,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/e0e4b232-4b7f-41c7-b54b-57559ed7a600/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911170334_110_117.png",
+      "source_file": "Team/微信图片_20260911170334_110_117.png"
+    },
+    {
+      "src": "assets/team-10.jpg",
+      "width": 600,
+      "height": 840,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/51541acc-efe4-4e3d-9757-6d597b4830e4/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911170336_1_163.jpg",
+      "source_file": "Team/微信图片_20260911170336_1_163.jpg"
+    },
+    {
+      "src": "assets/team-11.jpg",
+      "width": 909,
+      "height": 1280,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/7251a3d7-1d88-47c5-b801-e03de679bc4e/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911141627_51_122.jpg",
+      "source_file": "Team/微信图片_20260911141627_51_122.jpg"
+    },
+    {
+      "src": "assets/team-12.png",
+      "width": 670,
+      "height": 948,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/c4f8b1aa-e057-4e33-a91b-16597ee767ac/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260911170407_115_117.png",
+      "source_file": "Team/微信图片_20260911170407_115_117.png"
+    },
+    {
+      "src": "assets/team-13.jpg",
+      "width": 896,
+      "height": 1305,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/217d7b6e-2ea1-4422-b3fc-aad6af76f5b1/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260910222331_24_131.jpg",
+      "source_file": "Team/微信图片_20260910222331_24_131.jpg"
+    },
+    {
+      "src": "assets/team-14.jpg",
+      "width": 900,
+      "height": 1200,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/11f897c7-0372-4133-9476-4ea9715bc3cf/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260910222002_2_209.jpg",
+      "source_file": "Team/微信图片_20260910222002_2_209.jpg"
+    },
+    {
+      "src": "assets/team-15.jpg",
+      "width": 1372,
+      "height": 1920,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/d5212e6c-ec4d-4e31-ac4d-85980a8c068c/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__%26MsgI",
+      "source_file": "Team/个人证件照.jpg"
+    },
+    {
+      "src": "assets/logo.png",
+      "width": 753,
+      "height": 217,
+      "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/be501acb-45c8-4f0b-99eb-cae720c184b5/logo.png?format=1500w",
+      "source_file": "Home/logo.png"
+    }
+  ]
+}
