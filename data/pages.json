@@ -82,14 +82,6 @@
         "processing": "Proportional resize and centered crop to 4096 x 3072"
       },
       {
-        "src": "assets/group-activities-7.jpg",
-        "width": 4096,
-        "height": 3072,
-        "original": "https://images.squarespace-cdn.com/content/v1/6aa17102dd797518fa3ac218/72f941d8-c0cc-46e5-8756-8f4c7cd965b5/pub-34.jpg",
-        "source_file": "Group activities/pub-34.jpg",
-        "processing": "Proportional resize and centered crop to 4096 x 3072"
-      },
-      {
         "src": "assets/group-activities-8.jpg",
         "width": 4096,
         "height": 3072,
