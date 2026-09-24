@@ -69,6 +69,26 @@ git push -u origin main
 
 不启用 Pages 时，仓库仍可正常保存项目。也可把 `dist/` 的全部内容上传到任何静态托管服务。自定义域名与 DNS 需在选定托管服务中另行设置。
 
+## Cloudflare Pages
+
+连接 GitHub 仓库 `lfssgg/zhaolab` 后，使用以下构建设置：
+
+| 设置 | 值 |
+| --- | --- |
+| 生产分支 | `main` |
+| 框架预设 | `None` |
+| 根目录 | 留空（仓库根目录），不要填 `zhao-lab` 或 `dist` |
+| 构建命令 | `npm run build` |
+| 构建输出目录 | `dist` |
+
+项目提供无 npm 依赖的 `package.json`。`npm run build` 调用 Python 生成页面并校验本地链接；Cloudflare Linux 环境使用 `python3`。也可以直接设置构建命令为 `python3 scripts/build.py && python3 scripts/check.py`。不要在 `dist` 内执行 npm 命令，该目录不是源码根目录。
+
+遇到 `npm error enoent` 时，先确认部署的是含 `package.json` 的最新提交，且根目录为仓库根目录，再重新部署。若仅发布仓库内已构建的页面，可以使用构建命令 `exit 0` 和输出目录 `dist`，但该方式不会根据 JSON 自动重新生成页面。
+
+以上设置适用于 **Pages**，无需部署命令、Wrangler 配置或服务端入口。
+
+参考：[Pages 构建配置](https://developers.cloudflare.com/pages/configuration/build-configuration/)、[静态 HTML](https://developers.cloudflare.com/pages/framework-guides/deploy-anything/)。
+
 ## 恢复范围及限制
 
 详见 [迁移清单](docs/MIGRATION.md) 和 [检查记录](docs/VALIDATION.md)。当前使用系统衬线字体代替未嵌入快照的 Tai Heritage Pro / Sutro；保留视觉方向，但不宣称逐像素一致。全部成员和论文信息按所提供快照恢复，不自动校正年份、身份、排序或原始文字。

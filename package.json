@@ -1,0 +1,10 @@
+{
+  "name": "zhaolab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static Zhao lab website",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node scripts/build.mjs --check"
+  }
+}
