@@ -29,6 +29,8 @@ python -m http.server 8000 --bind 127.0.0.1 --directory dist
 
 ## 更新内容
 
+建议AI修改后上传
+
 1. 修改相应 JSON 文件（UTF-8，字符串双引号，最后一项后不加逗号）。
 2. 运行 `python scripts/build.py` 和 `python scripts/check.py`。
 3. 刷新本地浏览器，检查改动，再提交源码及 `dist/`。
